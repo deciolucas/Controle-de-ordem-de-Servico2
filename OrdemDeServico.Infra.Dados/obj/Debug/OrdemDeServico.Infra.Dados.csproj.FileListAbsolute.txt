@@ -1,0 +1,12 @@
+C:\Users\decio\Desktop\Projetos\OrdemDeServico\OrdemDeServico.Infra.Dados\bin\Debug\OrdemDeServico.Infra.Dados.dll.config
+C:\Users\decio\Desktop\Projetos\OrdemDeServico\OrdemDeServico.Infra.Dados\bin\Debug\OrdemDeServico.Infra.Dados.dll
+C:\Users\decio\Desktop\Projetos\OrdemDeServico\OrdemDeServico.Infra.Dados\bin\Debug\OrdemDeServico.Infra.Dados.pdb
+C:\Users\decio\Desktop\Projetos\OrdemDeServico\OrdemDeServico.Infra.Dados\bin\Debug\EntityFramework.dll
+C:\Users\decio\Desktop\Projetos\OrdemDeServico\OrdemDeServico.Infra.Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\decio\Desktop\Projetos\OrdemDeServico\OrdemDeServico.Infra.Dados\bin\Debug\OrdemDeServico.Dominio.dll
+C:\Users\decio\Desktop\Projetos\OrdemDeServico\OrdemDeServico.Infra.Dados\bin\Debug\OrdemDeServico.Dominio.pdb
+C:\Users\decio\Desktop\Projetos\OrdemDeServico\OrdemDeServico.Infra.Dados\bin\Debug\EntityFramework.xml
+C:\Users\decio\Desktop\Projetos\OrdemDeServico\OrdemDeServico.Infra.Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\decio\Desktop\Projetos\OrdemDeServico\OrdemDeServico.Infra.Dados\obj\Debug\OrdemDeServico.Infra.Dados.csprojResolveAssemblyReference.cache
+C:\Users\decio\Desktop\Projetos\OrdemDeServico\OrdemDeServico.Infra.Dados\obj\Debug\OrdemDeServico.Infra.Dados.dll
+C:\Users\decio\Desktop\Projetos\OrdemDeServico\OrdemDeServico.Infra.Dados\obj\Debug\OrdemDeServico.Infra.Dados.pdb
